@@ -1,0 +1,13 @@
+{
+    "name": "dendude/simple-date-helper",
+    "description": "Simple date formatter",
+    "authors": [
+        {
+            "name": "Denis Kravtsov",
+            "email": "denis.kravtsov.1986@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    }
+}
